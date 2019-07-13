@@ -1,0 +1,22 @@
+vg-player{
+    width: 100%;
+}
+video {
+    height: 100%;
+    width: 100%;
+}
+img{
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 40%;
+    height: 40%;
+}
+.media-heading{
+    font-size: 15px;
+}
+#substext{
+    font-size: 30px;
+}
+#footer-btn{
+    margin-top: 70px;
+}
